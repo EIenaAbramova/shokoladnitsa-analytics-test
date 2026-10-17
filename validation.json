@@ -1,0 +1,34 @@
+{
+  "verification.json": {
+    "sql_original_results": [
+      [
+        [
+          200000.0
+        ]
+      ],
+      [
+        [
+          4.0
+        ]
+      ],
+      [],
+      [
+        [
+          3
+        ]
+      ]
+    ],
+    "sql_edge_cases": "passed",
+    "saved_workbooks": "passed",
+    "cafes_checked": 27,
+    "original_rows": 648,
+    "excel1_total": 5994,
+    "excel3_total": 12578
+  },
+  "native_validation.json": {
+    "native_excel": "passed",
+    "revenue_reconciliation": "passed",
+    "table_expansion": "passed",
+    "name_normalization": "passed"
+  }
+}
